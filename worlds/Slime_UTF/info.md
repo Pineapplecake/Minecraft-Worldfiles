@@ -1,5 +1,5 @@
 # Slime UTF
-### [Download](https://github.com/Pineapplecake/minecraft-files/raw/master/worlds/Slime_UTF/Slime_UTF.zip) (1.12.2) Contains three worlds: one with a wither cage, one with a withercage and a system to store excess saplings, and one with no withercage.
+### [Download](https://github.com/Pineapplecake/minecraft-files/raw/master/worlds/Slime_UTF/SlimeUTF.zip) (1.12.2) Contains three worlds: one with a wither cage, one with a withercage and a system to store excess saplings, and one with no withercage.
 ### [Video](https://youtu.be/xekaCGE76t0)
 **Versions:** Works in 1.12+. Wither cage only verified to work in 1.12.x
 
