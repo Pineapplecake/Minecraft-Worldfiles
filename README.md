@@ -1,5 +1,5 @@
 # Minecraft Files
-This repository contains resource projects I use and world downloads of projects of mine in the game of Minecraft. 
+This repository contains resource packs I use and world downloads of projects of mine in the game of Minecraft. 
 ## Worlds
 World | Description | Video
 ----- | ----------- | -----
