@@ -10,7 +10,3 @@ World | Description | Video
 Pack | Description
 ---- | -----------
 [Bright Bedrock](https://github.com/Pineapplecake/minecraft-files/raw/master/resource-packs/Bright_Bedrock.zip) | 16x bright bedrock texture inspired by [gnembon's](https://www.youtube.com/channel/UCRtyLX-ej-H1PSiaw8g9aIA) 64x bright bedrock texture
-[Pineapple Tweaks](https://github.com/Pineapplecake/minecraft-files/raw/master/resource-packs/Pineapple_Tweaks.zip) | A resource pack spliced together from [Vanilla Tweaks](https://vanillatweaks.net/) and other assorted packs.
-
-### Disclaimer
-I am not the creater of some of the assets in these resource packs.
